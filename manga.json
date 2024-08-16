@@ -1,0 +1,23 @@
+{
+    "latest": [
+        {
+            "title": "Manga Title 1",
+            "cover": "images/manga1.jpg",
+            "description": "Brief description of Manga Title 1."
+        }
+    ],
+    "hot": [
+        {
+            "title": "Manga Title 2",
+            "cover": "images/manga2.jpg",
+            "description": "Brief description of Manga Title 2."
+        }
+    ],
+    "newest": [
+        {
+            "title": "Manga Title 3",
+            "cover": "images/manga3.jpg",
+            "description": "Brief description of Manga Title 3."
+        }
+    ]
+}
